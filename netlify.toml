@@ -12,3 +12,6 @@
 
   [[plugins.inputs.audits]]
     path = "faqs"
+
+  [[plugins.inputs.audits]]
+    url = "https://https://633d43e1b32a775ee764fd51--lighthouse-plugin-experiment.netlify.app/some-other-page-without-a-dir.html"
