@@ -14,4 +14,4 @@
     path = "faqs"
 
   [[plugins.inputs.audits]]
-    url = "https://633d43e1b32a775ee764fd51--lighthouse-plugin-experiment.netlify.app/something.html"
+    url = "https://lighthouse-plugin-experiment.netlify.app/something.html"
