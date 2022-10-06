@@ -6,4 +6,4 @@
 
   [[plugins.inputs.audits]]
     path = ""
-    urlPath = "contact"
+    urlPath = "contact.html"
