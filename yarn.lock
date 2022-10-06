@@ -2,10 +2,9 @@
 # yarn lockfile v1
 
 
-"@netlify/plugin-lighthouse@^3.7.1":
-  version "3.7.1"
-  resolved "https://registry.yarnpkg.com/@netlify/plugin-lighthouse/-/plugin-lighthouse-3.7.1.tgz#eba852eb48baeae6c4bff960ac6c84ee32e39462"
-  integrity sha512-4QHI3YUYawv8DlF3eiXogn50uzUNjbWdhZYcgWRPCbMlzv0FHhiMTZ/20IPTYm1IntIyKyZGyatjK3U6OslZBQ==
+"@netlify/plugin-lighthouse@https://github.com/netlify/netlify-plugin-lighthouse.git#sa/860/allowRunningLighthouseOnRoutesAvailableInPublishFolder":
+  version "3.6.0"
+  resolved "https://github.com/netlify/netlify-plugin-lighthouse.git#52af89a8fc758e2392fed0d27e4c9d013b73f4cf"
   dependencies:
     chalk "^4.1.0"
     chrome-launcher "^0.15.0"
