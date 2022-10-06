@@ -2,5 +2,4 @@
   package = "@netlify/plugin-lighthouse"
 
   [[plugins.inputs.audits]]
-    urlPath = "contact"
     path = ""
