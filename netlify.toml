@@ -3,3 +3,7 @@
 
   [[plugins.inputs.audits]]
     path = ""
+
+  [[plugins.inputs.audits]]
+    path = ""
+    urlPath = "contact"
