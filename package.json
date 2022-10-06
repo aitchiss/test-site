@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@netlify/plugin-lighthouse": "https://github.com/netlify/netlify-plugin-lighthouse.git#sa/860/allowRunningLighthouseOnRoutesAvailableInPublishFolder"
+    "@netlify/plugin-lighthouse": "https://github.com/netlify/netlify-plugin-lighthouse.git#ncl/urlPath"
   }
 }
