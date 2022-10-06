@@ -1,23 +1,6 @@
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
 
-  [plugins.inputs.thresholds]
-    performance = 0.9
-
-  [[plugins.inputs.audits]]
-    path = ""
-
-  [[plugins.inputs.audits]]
-    urlPath = "about"
-    path = ""
-
   [[plugins.inputs.audits]]
     urlPath = "contact"
     path = ""
-
-  [[plugins.inputs.audits]]
-    urlPath = "about/something"
-    path = ""
-
-  [[plugins.inputs.audits]]
-    url = "https://lighthouse-plugin-experiment.netlify.app/something.html"
