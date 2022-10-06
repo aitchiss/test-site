@@ -4,7 +4,7 @@
 
 "@netlify/plugin-lighthouse@https://github.com/netlify/netlify-plugin-lighthouse.git#sa/860/allowRunningLighthouseOnRoutesAvailableInPublishFolder":
   version "3.6.0"
-  resolved "https://github.com/netlify/netlify-plugin-lighthouse.git#9512f0ac5bcbfff6610867cf2d8980a286c2bf33"
+  resolved "https://github.com/netlify/netlify-plugin-lighthouse.git#2190b2be4d74f64b362bd2afc366f3670cf8c641"
   dependencies:
     chalk "^4.1.0"
     chrome-launcher "^0.15.0"
