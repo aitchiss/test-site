@@ -8,13 +8,13 @@
     path = ""
 
   [[plugins.inputs.audits]]
-    urlPath = "about"
+    urlPath = "/about"
 
   [[plugins.inputs.audits]]
-    urlPath = "contact"
+    urlPath = "/contact"
 
   [[plugins.inputs.audits]]
-    urlPath = "about/something"
+    urlPath = "/about/something"
 
   [[plugins.inputs.audits]]
     url = "https://lighthouse-plugin-experiment.netlify.app/something.html"
