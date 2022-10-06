@@ -6,4 +6,14 @@
 
   [[plugins.inputs.audits]]
     path = ""
-    urlPath = "contact.html"
+    fileName = "contact.html"
+
+  [[plugins.inputs.audits]]
+    path = "about"
+    fileName = "something.html"
+
+  [[plugins.inputs.audits]]
+    path = "about"
+
+
+
