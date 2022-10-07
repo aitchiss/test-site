@@ -2,7 +2,7 @@
   package = "@netlify/plugin-lighthouse"
 
   [[plugins.inputs.audits]]
-    serveDir = ""
+    path = ""
 
   [[plugins.inputs.audits]]
     path = "contact.html"
@@ -12,6 +12,9 @@
 
   [[plugins.inputs.audits]]
     serveDir = "about"
+
+  [[plugins.inputs.audits]]
+    path = "faqs"
 
 
 
