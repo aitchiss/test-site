@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@netlify/plugin-lighthouse@https://github.com/netlify/netlify-plugin-lighthouse.git#sa/860/experimentSubDirs":
-  version "3.6.0"
-  resolved "https://github.com/netlify/netlify-plugin-lighthouse.git#624fc500ba495e85f81939b43126ebd93e099668"
+"@netlify/plugin-lighthouse@https://github.com/netlify/netlify-plugin-lighthouse.git#sa/860/allowRunningLighthouseOnRoutesAvailableInPublishFolder":
+  version "3.7.1"
+  resolved "https://github.com/netlify/netlify-plugin-lighthouse.git#a8316754ecf0c85f34a489ba837c508ea1d38bbe"
   dependencies:
     chalk "^4.1.0"
     chrome-launcher "^0.15.0"
@@ -72,9 +72,9 @@
     tslib "^1.9.3"
 
 "@types/node@*":
-  version "18.8.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.8.2.tgz#17d42c6322d917764dd3d2d3a10d7884925de067"
-  integrity sha512-cRMwIgdDN43GO4xMWAfJAecYn8wV4JbsOGHNfNUIDiuYkUYAR5ec4Rj7IO2SAhFPEfpPtLtUTbbny/TCT7aDwA==
+  version "18.8.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.8.3.tgz#ce750ab4017effa51aed6a7230651778d54e327c"
+  integrity sha512-0os9vz6BpGwxGe9LOhgP/ncvYN5Tx1fNcd2TM3rD/aCGBkysb+ZWpXEocG24h6ZzOi13+VB8HndAQFezsSOw1w==
 
 "@types/yauzl@^2.9.1":
   version "2.10.0"
