@@ -2,18 +2,16 @@
   package = "@netlify/plugin-lighthouse"
 
   [[plugins.inputs.audits]]
-    path = ""
+    serveDir = ""
 
   [[plugins.inputs.audits]]
-    path = ""
-    fileName = "contact.html"
+    path = "contact.html"
 
   [[plugins.inputs.audits]]
-    path = "about"
-    fileName = "something.html"
+    path = "about/something.html"
 
   [[plugins.inputs.audits]]
-    path = "about"
+    serveDir = "about"
 
 
 
