@@ -23,9 +23,9 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@netlify/plugin-lighthouse@https://github.com/netlify/netlify-plugin-lighthouse.git#sa/experimentPuppeteerUpgrade":
+"@netlify/plugin-lighthouse@https://github.com/netlify/netlify-plugin-lighthouse.git#renovate/puppeteer-19.x":
   version "4.0.1"
-  resolved "https://github.com/netlify/netlify-plugin-lighthouse.git#8b093a9d10bccc5de8a2aee63a86b2c252583f2b"
+  resolved "https://github.com/netlify/netlify-plugin-lighthouse.git#70257708af5ebb43dadaf1ae6f802c58dc146af8"
   dependencies:
     chalk "^4.1.0"
     chrome-launcher "^0.15.0"
