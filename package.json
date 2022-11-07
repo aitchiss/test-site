@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@netlify/plugin-lighthouse": "https://github.com/netlify/netlify-plugin-lighthouse.git#renovate/puppeteer-19.x"
+    "@netlify/plugin-lighthouse": "^4.0.2"
   }
 }
