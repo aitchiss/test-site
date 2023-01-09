@@ -1,6 +1,5 @@
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
-  output_path = "reports/lighthouse.html"
 
   [[plugins.inputs.audits]]
     path = ""
@@ -8,14 +7,6 @@
   [[plugins.inputs.audits]]
     path = "contact.html"
 
-  [[plugins.inputs.audits]]
-    path = "about/something.html"
-
-  [[plugins.inputs.audits]]
-    serveDir = "about"
-
-  [[plugins.inputs.audits]]
-    path = "faqs"
 
   # optional, deploy the lighthouse report to a path under your site
   [plugins.inputs]
