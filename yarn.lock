@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@netlify/plugin-lighthouse@^4.0.3":
+"@netlify/plugin-lighthouse@@netlify/plugin-lighthouse#sa/510/upgradePuppeteer":
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/@netlify/plugin-lighthouse/-/plugin-lighthouse-4.0.3.tgz#85a4b4ac1fa2b6bf80a4d1fd7a09c928959ad9b4"
   integrity sha512-wfl4Cy8pEypm7jXSTateD3u/jXPUm/l+Yw9v04vc70Z8iItwFHAyYyZtbxE45N5SM9fa5vifPEtb4hhRfHvtSg==
