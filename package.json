@@ -8,7 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@netlify/plugin-lighthouse": "^4.0.2"
-  }
+  "devDependencies": {}
 }
